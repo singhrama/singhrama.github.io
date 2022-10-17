@@ -60,7 +60,7 @@ body {
 #firstname{
 	display: block;
 	font-size: 4em;
-	text-transform: lowercase;
+/*	text-transform: lowercase; */
 	font-weight: 700;
 	color: #00BFFF;
 	line-height: 0.9;
